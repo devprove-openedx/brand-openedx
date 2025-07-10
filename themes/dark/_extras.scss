@@ -235,6 +235,10 @@ a.course-card-title {
         &:focus{
             box-shadow: 0 0 0 1px $primary;
         }
+
+        option {
+            background: #0d0d0e;   
+        }
     }
     .pgn__form-text-default, .has-floating-label {
         color: $text-color;
