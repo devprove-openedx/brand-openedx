@@ -239,6 +239,10 @@ a.course-card-title {
         option {
             background: #0d0d0e;   
         }
+
+        optgroup {
+            background: #0d0d0e;
+        }
     }
     .pgn__form-text-default, .has-floating-label {
         color: $text-color;
