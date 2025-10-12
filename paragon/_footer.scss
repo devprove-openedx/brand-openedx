@@ -82,11 +82,12 @@ footer.tutor-container {
                 a {
                     color: $light-dark;
                     text-decoration: none;
+                    transition: all 0.1s linear 0s;
                     &:hover {
                         color: $text-color;
                         text-decoration: none;
                     }
-                }
+                }`
             }
         }
     }
