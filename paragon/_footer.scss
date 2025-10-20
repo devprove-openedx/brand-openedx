@@ -58,7 +58,7 @@ footer.tutor-container {
                     width: 1px;
                     height: 29px;
                     margin: -14px 0 0;
-                    background: $text-color-primary;;
+                    background: $text-color-primary;
                 }
             }
         }
@@ -80,7 +80,7 @@ footer.tutor-container {
                     line-height: 24px;
                 }
                 a {
-                    color: $light-dark;
+                    color: $text-color-primary;
                     text-decoration: none;
                     transition: all 0.1s linear 0s;
                     &:hover {
