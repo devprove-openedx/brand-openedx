@@ -1504,3 +1504,9 @@ section[data-testid=sidebar-NOTIFICATIONS], section[data-testid=sidebar-DISCUSSI
         color: white !important;
     }
 }
+
+.grade-bar {
+    text {
+        filter: brightness(0) invert(1);
+    }
+}
